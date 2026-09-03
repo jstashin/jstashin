@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jerin Sayma Tashin</h1>
+<h1 align="center">Hi 👋, I'm Jerin Sayma </h1>
 
 <h3 align="center">
   Aspiring Frontend Developer | Learning, Building & Growing
